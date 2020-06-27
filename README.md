@@ -1,4 +1,4 @@
-# data-science-tutorial
+# Python Programming for Data Science
 
 * [Exploratory Data Analysis (EDA)](https://github.com/mrolarik/data-science-tutorial/blob/master/001_Exploratory_data_analysis.ipynb)
 * Linear Regression
