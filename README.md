@@ -15,5 +15,7 @@
 
 
 # Video
-[![Python programming for data science EP1](https://i9.ytimg.com/vi/-68d92EiTOg/mqdefault.jpg?time=1593342361264&sqp=CNzy4fcF&rs=AOn4CLDN5EHrOjzCbBAbsqWAR0GFG4zPSA)](https://www.youtube.com/watch?v=-68d92EiTOg&t=89s)
-[![Python programming for data science EP2](https://i9.ytimg.com/vi/GuOoP5lKiEM/mqdefault.jpg?time=1593342479762&sqp=CNzy4fcF&rs=AOn4CLCxs_mG5kF0EM1BgrCAwZORQWqSdg)](https://www.youtube.com/watch?v=GuOoP5lKiEM)
+* [EP1](https://www.youtube.com/watch?v=-68d92EiTOg&t=89s)
+* [EP2](https://www.youtube.com/watch?v=GuOoP5lKiEM)
+* [EP3]()
+* [EP4]()
